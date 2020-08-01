@@ -1,0 +1,34 @@
+# Welcome to my GitHub! 🌙✨
+
+Hi, I'm Eden (she/her) 🦇 tldr; I'm a machine learning engineer from the UK who loves art, AI and robots. 
+
+Currently I am very interested in scaling and productionising ML systems (MLOps), in particular for computer vision applications 👓 My background is a mixture of computer vision, medical imaging, deep learning and psychology. I've also previously worked as a data scientist, and at a startup analysing super-resolution microscopy images! 🔬
+
+In my spare time you can find me practing aerial arts, reading and tabletop gaming 🌃
+
+---
+
+## My technical interests 🤍
+👁️ Computer vision & image processing<br>
+🤖 MLOps<br>
+🏥 Robotics and embedded applications<br>
+👾 AR and VR<br>
+
+I blog about these areas and more here ➡️ [ekwksa blog](https://ekwska.com/)
+
+## Get in touch 📪
+- Email: ekwska0@protonmail.com
+- Blog: https://ekwska.com/
+
+## Latest blog posts 🖊️
+
+* [Surgeries of the future: 5 surgical robots changing the operating theatre](https://ekwska.com/posts/surgeries-of-the-future/)
+* [How do robots see? Beam models in robotics](https://ekwska.com/posts/beam-models-robotics/)
+* [This lemon does not exist](https://ekwska.com/posts/this-lemon-does-not-exist/)
+* [Principles of recording from the brain using EEG](https://ekwska.com/posts/eeg-principles/)
+
+---
+
+<!--
+**ekwska/ekwska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
