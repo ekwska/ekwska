@@ -1,10 +1,10 @@
 # Welcome to my GitHub! 🌙✨
 
-Hi, I'm Eden (she/her) 🦇 tldr; I'm a machine learning engineer from the UK who loves art, AI and robots. 
+Hi, I'm Eden (she/her) 🦇 tldr; I'm a senior machine learning engineer from the UK.
 
-Currently I am very interested in scaling and productionising ML systems (MLOps), in particular for computer vision applications 👓 My background is a mixture of computer vision, medical imaging, deep learning and psychology. I've also previously worked as a data scientist, and at a startup analysing super-resolution microscopy images! 🔬
+Currently I am very interested in scaling and productionising ML systems (MLOps), in particular for computer vision applications. My background is a mixture of computer vision, medical imaging, deep learning and psychology. I've also previously worked as a data scientist, and at a startup analysing super-resolution microscopy images! 🔬
 
-In my spare time you can find me practing aerial arts, reading and tabletop gaming 🌃
+In my spare time you can find me fawning over my pet tarantula Blueberry, training for my next pole dancing show, or drinking an unhealthy amount of bubble tea.
 
 ---
 
@@ -12,7 +12,7 @@ In my spare time you can find me practing aerial arts, reading and tabletop gami
 👁️ Computer vision & image processing<br>
 🤖 MLOps<br>
 🏥 Robotics and embedded applications<br>
-👾 AR and VR<br>
+💌 Full-stack development<br>
 
 I blog about these areas and more here ➡️ [ekwksa blog](https://ekwska.com/)
 
