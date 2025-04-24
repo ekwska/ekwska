@@ -2,9 +2,9 @@
 
 Hi, I'm Eden (she/her) 🦇 tldr; I'm a senior machine learning engineer from the UK.
 
-Currently I am very interested in scaling and productionising ML systems (MLOps), in particular for computer vision applications. My background is a mixture of computer vision, medical imaging, deep learning and psychology. I've also previously worked as a data scientist, and at a startup analysing super-resolution microscopy images! 🔬
+Currently I am very interested in scaling and productionising ML systems (MLOps), in particular for computer vision applications. My background is a mixture of computer vision, medical imaging, deep learning and psychology. I've also previously worked as a data scientist, and at a startup analysing super-resolution microscopy images. 🔬
 
-In my spare time you can find me fawning over my pet tarantula Blueberry, training for my next pole dancing show, or drinking an unhealthy amount of bubble tea.
+In my spare time you can find me fawning over my pet tarantula Blueberry, training for my next pole dancing show, or drinking an unhealthy amount of bubble tea. 🧋
 
 ---
 
